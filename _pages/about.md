@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My Name is Or Duek. Currently I am a post-doctorate associate, working at the Yale University School of Medicine with the collaborative supervision of Drs. Ilan Harpaz-Rotem[lab page](https://www.ptsdstresslab.org/) and Ifat Levy[lab page](https://levydecisionlab.org/).
+My Name is Or Duek. I am a post-doctorate associate, working at the Yale University School of Medicine with the collaborative supervision of Drs. Ilan Harpaz-Rotem [lab page](https://www.ptsdstresslab.org/) and Ifat Levy [lab page](https://levydecisionlab.org/).
 
 
 
