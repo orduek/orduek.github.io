@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. Ben-Gurion University of the Negev, Department of Psychology, 2005-2007
+* M.A. Ben-Gurion University of the Negev, Department of Psychology, Clinical Psychology, 2007-2009
+* Ph.D Ben-Gurion University of the Negev, Department of Psychology				Advisors: Prof. Ora Kofman, Dr. Yamima Osher; Title: Neurocognitive Markers of Bipolar Disorder, 2009-2014 
 
 Work experience
 ======
