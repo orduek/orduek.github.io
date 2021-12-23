@@ -123,6 +123,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
+Submitted Manuscripts
+============
+* Duek O.*, Seidemann, R*,  Pietrzak, R. H., Harpaz-Rotem I., Distinguishing emotional numbing symptoms of posttraumatic stress disorder from major depressive disorder (under review)
+
+* Duek O., Li Y., Kelmendi B., Amen S., Gordon C.,Milne M., Krystal J.H., Levy I., Harpaz-Rotem I., Modulating amygdala activation to traumatic memories with a single ketamine infusion (submitted, preprint in medrxiv doi: https://doi.org/10.1101/2021.07.07.21260166)
+
+* Duek O., Spiller T.R., Rubenstein A., Pietrzak R., Harpaz-Rotem I., Two clusters of intrusive traumatic memories in PTSD: Theory and evidence (under review)
+
+* Spiller T.R*., Duek O*., Helmer M., Murray J., Von-Känel R., Harpaz-Rotem I., The uncommon is common: Structural similarities of symptom heterogeneity across mental disorders (under review; preprint: 10.31234/osf.io/g4kf8)
+
+* Spiller R.T., Duek O., Buta E., Gross G., Smith B.N., Harpaz-Rotem I., Comparative Effectiveness of Group vs Individual Trauma-Focused Treatment for Posttraumatic Stress Disorder in Veterans (under review)
+
 <!---Talks
 ======
   <ul>{% for post in site.talks %}
@@ -135,8 +148,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 --> 
+
 Clinical Work
 =============
+
 I have worked at Soroka University Medical center at The Vivian and Seymour Milstein Family Trauma Recovery Center for Children and Adolescents as a senior clinical psychologist. The center focus on treating children and adolescents after a traumatic event including terror attacks, car accidents, domestic violence etc. As part of my work I supervised and mentored other workers and psychology students on both treatment and psycho-diagnostics tools. Currently I conduct psychotherapy as part of a study, using short term Prolonged Exposure (PE) based protocol to treat PTSD.
 
 
