@@ -123,7 +123,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!---Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -134,7 +134,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+--> 
 Clinical Work
 =============
 I have worked at Soroka University Medical center at The Vivian and Seymour Milstein Family Trauma Recovery Center for Children and Adolescents as a senior clinical psychologist. The center focus on treating children and adolescents after a traumatic event including terror attacks, car accidents, domestic violence etc. As part of my work I supervised and mentored other workers and psychology students on both treatment and psycho-diagnostics tools. Currently I conduct psychotherapy as part of a study, using short term Prolonged Exposure (PE) based protocol to treat PTSD.
