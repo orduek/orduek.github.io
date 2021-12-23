@@ -108,7 +108,7 @@ Review/Editor
 * Review Editor:
   * Frontiers in Psychiatry
 * Ad-Hoc:
- * Plos One, eNeuro, Frontiers Psychology, Motivation and Emotion, European Journal of Psychotraumatology, The British Journal of Psychiatry, Neurobiology of Stress
+  * Plos One, eNeuro, Frontiers Psychology, Motivation and Emotion, European Journal of Psychotraumatology, The British Journal of Psychiatry, Neurobiology of Stress
  
 Memberships
 ===========
@@ -141,6 +141,4 @@ I have worked at Soroka University Medical center at The Vivian and Seymour Mils
 
 
 
-%%Service and leadership
-%%======
-%%* Currently signed in to 43 different slack teams
+
