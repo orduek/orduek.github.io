@@ -102,6 +102,7 @@ Skills
 Awards, Honors, Fellowships
 ===========================
 * Zlotowski Scholarship for Undergraduate Students, 2006
+* North America Society for Psychotherapy Research Postdoctroal Trainee Award, 2022
 
 Review/Editor
 =============
@@ -130,11 +131,17 @@ Submitted Manuscripts
 
 * Duek O., Li Y., Kelmendi B., Amen S., Gordon C.,Milne M., Krystal J.H., Levy I., Harpaz-Rotem I., Modulating amygdala activation to traumatic memories with a single ketamine infusion (submitted, preprint in medrxiv doi: https://doi.org/10.1101/2021.07.07.21260166)
 
-* Duek O., Spiller T.R., Rubenstein A., Pietrzak R., Harpaz-Rotem I., Two clusters of intrusive traumatic memories in PTSD: Theory and evidence (under review)
-
 * Spiller T.R*., Duek O*., Helmer M., Murray J., Von-Känel R., Harpaz-Rotem I., The uncommon is common: Structural similarities of symptom heterogeneity across mental disorders (under review; preprint: 10.31234/osf.io/g4kf8)
 
-* Spiller R.T., Duek O., Buta E., Gross G., Smith B.N., Harpaz-Rotem I., Comparative Effectiveness of Group vs Individual Trauma-Focused Treatment for Posttraumatic Stress Disorder in Veterans (under review)
+* Spiller R.T.,  Na, P., Merians, A., Duek O., Tsai J., von Kanel R., Harpaz-Rotem I., Pietrzak R., Changes in mental health among U.S. military veterans during the COVID-19 pandemic: A longitudinal netowrk analysis (under review)
+
+* Ben-Zion Z, Nachshon N, Spiller T ,Duek  O,  Jackob Keynan N, Admon R, Harpaz-Rotem I, Liberzon I, Shalev A, Hendler T., Longitudinal Volumetric Evaluation of Hippocampus and Amygdala Subregions in Recent Trauma Survivors (under review)
+
+* Orederu T, Duek O, Enel P, Gordon C, Korem N, Chen J, Levy I, Schiller D, Harpaz-Rotem I., Shared amygdala patterns during naturalistic threat predict PTSD resilience, (under review)
+
+* Sippel, L. M., Gross, G. M., Spiller, T. R., Duek, O., Smith, N., Hoff, R., Harpaz-Rotem, I. Comparative effectiveness of evidence-based psychotherapies for PTSD delivered in VA residential PTSD treatment (under review)
+
+
 
 <!---Talks
 ======
