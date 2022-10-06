@@ -19,6 +19,13 @@ Education
 
 Work experience
 ======
+* 2022-present Senior Lecturer (Assistant Professor)
+  * Departement of Epidemiology, Biostatistics and Community Health Sciences
+  * Ben-Gurion University of the Negev, Beer-Sheva, Israel
+
+* 2021-2022: Associate Research Scientist
+  * Department of Psychiatry, Yale University School of Medicine 
+
 * 2018-present: Post Doctorate Associate 
   * Department of Psychiatry, Yale University School of Medicine
   
@@ -83,7 +90,7 @@ Skills
 * Statistical Analysis
  * Bayesian Statistics
    * Stan
-   * PyMC3
+   * PyMC
    * Scipy
    * R
    
@@ -135,7 +142,7 @@ Submitted Manuscripts
 
 * Spiller R.T.,  Na, P., Merians, A., Duek O., Tsai J., von Kanel R., Harpaz-Rotem I., Pietrzak R., Changes in mental health among U.S. military veterans during the COVID-19 pandemic: A longitudinal netowrk analysis (under review)
 
-* Ben-Zion Z, Nachshon N, Spiller T ,Duek  O,  Jackob Keynan N, Admon R, Harpaz-Rotem I, Liberzon I, Shalev A, Hendler T., Longitudinal Volumetric Evaluation of Hippocampus and Amygdala Subregions in Recent Trauma Survivors (under review)
+* Ben-Zion Z, Nachshon N, Spiller T ,Duek  O,  Jackob Keynan N, Admon R, Harpaz-Rotem I, Liberzon I, Shalev A, Hendler T., Longitudinal Volumetric Evaluation of Hippocampus and Amygdala Subregions in Recent Trauma Survivors (accepted Mol. Psych.)
 
 * Orederu T, Duek O, Enel P, Gordon C, Korem N, Chen J, Levy I, Schiller D, Harpaz-Rotem I., Shared amygdala patterns during naturalistic threat predict PTSD resilience, (under review)
 
