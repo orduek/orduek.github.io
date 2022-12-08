@@ -14,6 +14,5 @@ My Name is Or Duek. I am an assistant professor (Senior Lecturer) at the Departm
 Until recently, I have worked as a research associate with Drs. Ilan Harpaz-Rotem [lab page](https://www.ptsdstresslab.org/) and Ifat Levy [lab page](https://levydecisionlab.org/).
 
 ## Main Research Focus
-=======================
 
 My research tries to unravel the effect of exposure to stress on the individual and the environment. Moreover, I'm interested in the symptomatology and brain mechanism that underlies post-traumatic stress disorder (PTSD) and its mechanism of change.
