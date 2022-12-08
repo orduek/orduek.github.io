@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-My Name is Or Duek. I am a post-doctorate associate, working at the Yale University School of Medicine with the collaborative supervision of Drs. Ilan Harpaz-Rotem [lab page](https://www.ptsdstresslab.org/) and Ifat Levy [lab page](https://levydecisionlab.org/).
+## About Me
+My Name is Or Duek. I am an assistant professor (Senior Lecturer) at the Department of Epidemiology, Biostatistics, and Community Health Sciences at the Ben-Gurion University of the Negev. I am also an Adjunct Assistant Professor at the Department of Psychiatry at Yale University School of Medicine.
 
+Until recently, I have worked as a research associate with Drs. Ilan Harpaz-Rotem [lab page](https://www.ptsdstresslab.org/) and Ifat Levy [lab page](https://levydecisionlab.org/).
 
+## Main Research Focus
+=======================
 
-Main Research Focus
-======
-My reseach focuses on the symptomatology and brain mechanism underlies post-traumatic stress disorder (PTSD) and its mechanism of change.
-
-
+My research tries to unravel the effect of exposure to stress on the individual and the environment. Moreover, I'm interested in the symptomatology and brain mechanism that underlies post-traumatic stress disorder (PTSD) and its mechanism of change.
