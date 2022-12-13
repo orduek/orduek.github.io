@@ -17,3 +17,4 @@ Until recently, I have worked as a research associate with Drs. Ilan Harpaz-Rote
 
 My research tries to unravel the effect of exposure to stress on the individual and the environment. Moreover, I'm interested in the symptomatology and brain mechanism that underlies post-traumatic stress disorder (PTSD) and its mechanism of change.
 
+![](/images/stress_img.jpeg)
