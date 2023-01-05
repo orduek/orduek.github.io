@@ -89,22 +89,14 @@ Skills
 ======
 * Statistical Analysis
  * Bayesian Statistics
-   * Stan
-   * PyMC
-   * Scipy
-   * R
+   * Stan, PyMC
+  * Scipy
+  * R
    
 * Neuroimaging
-  * Nilean
-  * Scikit-learn
-  * Nipype
-  * CONN Toolbox
-  * Brainiak
-  
+  * Nilean, Scikit-learn, Nipype, CONN Toolbox, Brainiak
 * Cognitive Tasks
-  * PsychoPy
-  * PsychToolbox
-  * jsPsych
+  * PsychoPy, jsPsych
 
 Awards, Honors, Fellowships
 ===========================
@@ -134,15 +126,11 @@ Publications
 
 Submitted Manuscripts
 ============
-* Duek O.*, Seidemann, R*,  Pietrzak, R. H., Harpaz-Rotem I., Distinguishing emotional numbing symptoms of posttraumatic stress disorder from major depressive disorder (under review)
-
 * Duek O., Li Y., Kelmendi B., Amen S., Gordon C.,Milne M., Krystal J.H., Levy I., Harpaz-Rotem I., Modulating amygdala activation to traumatic memories with a single ketamine infusion (submitted, preprint in medrxiv doi: https://doi.org/10.1101/2021.07.07.21260166)
 
 * Spiller T.R*., Duek O*., Helmer M., Murray J., Von-Känel R., Harpaz-Rotem I., The uncommon is common: Structural similarities of symptom heterogeneity across mental disorders (under review; preprint: 10.31234/osf.io/g4kf8)
 
 * Spiller R.T.,  Na, P., Merians, A., Duek O., Tsai J., von Kanel R., Harpaz-Rotem I., Pietrzak R., Changes in mental health among U.S. military veterans during the COVID-19 pandemic: A longitudinal netowrk analysis (under review)
-
-* Ben-Zion Z, Nachshon N, Spiller T ,Duek  O,  Jackob Keynan N, Admon R, Harpaz-Rotem I, Liberzon I, Shalev A, Hendler T., Longitudinal Volumetric Evaluation of Hippocampus and Amygdala Subregions in Recent Trauma Survivors (accepted Mol. Psych.)
 
 * Orederu T, Duek O, Enel P, Gordon C, Korem N, Chen J, Levy I, Schiller D, Harpaz-Rotem I., Shared amygdala patterns during naturalistic threat predict PTSD resilience, (under review)
 
@@ -167,7 +155,3 @@ Clinical Work
 =============
 
 I have worked at Soroka University Medical center at The Vivian and Seymour Milstein Family Trauma Recovery Center for Children and Adolescents as a senior clinical psychologist. The center focus on treating children and adolescents after a traumatic event including terror attacks, car accidents, domestic violence etc. As part of my work I supervised and mentored other workers and psychology students on both treatment and psycho-diagnostics tools. Currently I conduct psychotherapy as part of a study, using short term Prolonged Exposure (PE) based protocol to treat PTSD.
-
-
-
-
