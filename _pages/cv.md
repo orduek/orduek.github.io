@@ -134,7 +134,6 @@ Submitted Manuscripts
 
 * Orederu T, Duek O, Enel P, Gordon C, Korem N, Chen J, Levy I, Schiller D, Harpaz-Rotem I., Shared amygdala patterns during naturalistic threat predict PTSD resilience, (under review)
 
-* Sippel, L. M., Gross, G. M., Spiller, T. R., Duek, O., Smith, N., Hoff, R., Harpaz-Rotem, I. Comparative effectiveness of evidence-based psychotherapies for PTSD delivered in VA residential PTSD treatment (under review)
 
 
 
