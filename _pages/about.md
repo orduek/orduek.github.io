@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Psychology: Neuroscience and Clinical Interventions"
+title: "Epidemiology & Psychology: Public Mental Health, Neuroscience and Clinical Interventions"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-My Name is Or Duek. I am an assistant professor (Senior Lecturer) at the Department of Epidemiology, Biostatistics, and Community Health Sciences at the Ben-Gurion University of the Negev and an Adjunct Assistant Professor at the Department of Psychiatry at Yale University School of Medicine.
+As a licensed clinical psychologist, I currently hold the position of an Assistant Professor (Senior Lecturer), in the Department of Epidemiology, Biostatistics, and Community Health Sciences at Ben-Gurion University of the Negev. Additionally, I serve as an Adjunct Assistant Professor in the Department of Psychiatry at Yale University School of Medicine.
 
 ## Main Research Focus
 
