@@ -124,16 +124,6 @@ Publications
   {% endfor %}</ul>
   
 
-Submitted Manuscripts
-============
-* Duek O., Li Y., Kelmendi B., Amen S., Gordon C.,Milne M., Krystal J.H., Levy I., Harpaz-Rotem I., Modulating amygdala activation to traumatic memories with a single ketamine infusion (submitted, preprint in medrxiv doi: https://doi.org/10.1101/2021.07.07.21260166)
-
-* Spiller T.R*., Duek O*., Helmer M., Murray J., Von-Känel R., Harpaz-Rotem I., The uncommon is common: Structural similarities of symptom heterogeneity across mental disorders (under review; preprint: 10.31234/osf.io/g4kf8)
-
-* Spiller R.T.,  Na, P., Merians, A., Duek O., Tsai J., von Kanel R., Harpaz-Rotem I., Pietrzak R., Changes in mental health among U.S. military veterans during the COVID-19 pandemic: A longitudinal netowrk analysis (under review)
-
-* Orederu T, Duek O, Enel P, Gordon C, Korem N, Chen J, Levy I, Schiller D, Harpaz-Rotem I., Shared amygdala patterns during naturalistic threat predict PTSD resilience, (under review)
-
 
 
 
