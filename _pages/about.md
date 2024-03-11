@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-As a licensed clinical psychologist, I currently hold the position of an Assistant Professor (Senior Lecturer), in the Department of Epidemiology, Biostatistics, and Community Health Sciences at Ben-Gurion University of the Negev. Additionally, I serve as an Adjunct Assistant Professor in the Department of Psychiatry at Yale University School of Medicine.
+A clinical psychologist, Assistant Professor (Senior Lecturer), in the Department of Epidemiology, Biostatistics, and Community Health Sciences at Ben-Gurion University of the Negev. Additionally, I serve as an Adjunct Assistant Professor in the Department of Psychiatry at Yale University School of Medicine.
 
 ## Main Research Focus
 
@@ -18,6 +18,4 @@ My research is centered around understanding the epidemiological implications of
 
 ## Join us!
 We are currently seeking enthusiastic and driven individuals for graduate and post-doctoral positions. If you are intrigued by the interdisciplinary convergence of Epidemiology, Psychology, and Neuroscience, we encourage you to reach out to us.
-
-
 
