@@ -20,5 +20,5 @@ My research is centered around understanding the epidemiological implications of
 We are currently seeking enthusiastic and driven individuals for graduate and post-doctoral positions. If you are intrigued by the interdisciplinary convergence of Epidemiology, Psychology, and Neuroscience, we encourage you to reach out to us.
 
 ## Schedule a meeting to hear more
-[Schedule here](https://outlook.office.com/bookwithme/user/6e6f2b189b454f3f87717b216391ed8d@bgu.ac.il/meetingtype/McbF6ZP-302nxuH2vN4a-Q2?anonymous&ep=mlink)
+[Schedule here](https://outlook.office365.com/owa/calendar/PeronsalMeetings@bgu.ac.il/bookings/)
 
