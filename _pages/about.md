@@ -23,6 +23,3 @@ We are currently seeking enthusiastic and driven individuals for graduate and po
 If you'd like to hear more and chat (viz Zoom or Teams), feel free to schedule a meeting
 [Schedule here](https://outlook.office365.com/owa/calendar/PeronsalMeetings@bgu.ac.il/bookings/)
 
-
-<iframe src='https://outlook.office365.com/owa/calendar/PeronsalMeetings@bgu.ac.il/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>
-
