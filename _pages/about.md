@@ -19,6 +19,8 @@ My research is centered around understanding the epidemiological implications of
 ## Join us!
 We are currently seeking enthusiastic and driven individuals for graduate and post-doctoral positions. If you are intrigued by the interdisciplinary convergence of Epidemiology, Psychology, and Neuroscience, we encourage you to reach out to us.
 
+Visit us on out [Lab Website](https://www.orduek.com/)
+
 ## Schedule a meeting to hear more
 If you'd like to hear more and chat (viz Zoom or Teams), feel free to schedule a meeting
 [Schedule here](https://outlook.office365.com/owa/calendar/PeronsalMeetings@bgu.ac.il/bookings/)
